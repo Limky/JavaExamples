@@ -19,6 +19,6 @@ public class PrintTriangleMain {
 	    
     	str +="\n";
     }
-		return str;		
+		return  str;		
 	}
  }
