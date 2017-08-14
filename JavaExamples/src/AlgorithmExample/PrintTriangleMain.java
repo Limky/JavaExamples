@@ -4,7 +4,7 @@ public class PrintTriangleMain {
 
 	public static void main(String[] args) {
 		PrintTriangle pt = new PrintTriangle();
-		System.out.println( pt.printTriangle(3) );
+		System.out.println( pt.printTriangle(4) );
 	}
 }
 
