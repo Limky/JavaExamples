@@ -1,4 +1,4 @@
-package JavaDiversityExample;
+package FieldDiversity;
 
 import javax.jws.soap.SOAPBinding;
 

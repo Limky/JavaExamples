@@ -1,4 +1,4 @@
-package JavaDiversityExample;
+package FieldDiversity;
 
 public class Car {
 	

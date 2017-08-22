@@ -1,4 +1,4 @@
-package JavaDiversityExample;
+package FieldDiversity;
 
 public class KumhoTire extends Tire {
 
